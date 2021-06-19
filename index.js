@@ -4,8 +4,8 @@ function getCart() {
  return cart;
 }
 
-function setCart(c) {
-  cart = c;
+function setCart(currentCart) {
+  cart = currentCart;
   return cart;
 }
 
